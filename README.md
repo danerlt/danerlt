@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div align=center>
 
 <!-- <img alt="danerlt" src="./assets/avatar.png" width=100 /> -->
