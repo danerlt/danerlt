@@ -7,19 +7,11 @@
 <p>
 
 [![Github Stars](https://img.shields.io/github/stars/danerlt?color=faf408&label=github%20stars&logo=github)](https://github.com/danerlt)
-
-</p>
-
-<p>
-
 [![Website](https://img.shields.io/badge/personal%20website-litao.work-b860ff?logoColor=white&labelColor=red)](https://litao.work)
-
-
-</p>
-
 ![Profile View Counter](https://komarev.com/ghpvc/?username=danerlt)
 
-
+</p>
+ 
 ## Orientation :dart:
 
 Life is short, I love Python. :heart:
