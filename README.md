@@ -2,7 +2,7 @@
 
 <div align=center>
 
-<img alt="danerlt" src="./assets/avatar.png" width=100 />
+<!-- <img alt="danerlt" src="./assets/avatar.png" width=100 /> -->
 
 # Hi, this is danerlt :wave:
 
