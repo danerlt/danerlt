@@ -20,7 +20,10 @@ Life is short, I love Python. :heart:
 
 ![Python](https://img.shields.io/badge/-python-blue)
 ![Flask](https://img.shields.io/badge/-Flask-yellow)
+![APScheduler]()
 ![Mysql](https://img.shields.io/badge/-Mysql-red)
+![Docker](https://img.shields.io/badge/-Docker-%23003f8c)
+![Kubernet](https://img.shields.io/badge/-Kubernet-blueviolet)
 ![Redis](https://img.shields.io/badge/-Redis-green)
 ![Rabbitmq](https://img.shields.io/badge/-Rabbitmq-white)  
 
