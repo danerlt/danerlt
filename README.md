@@ -27,6 +27,16 @@ Life is short, I love Python. :heart:
 </p>
 
 
+<div align="center">
+<span>&emsp;&emsp;</span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=danerlt" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danerlt&layout=compact&langs_count=8" />
+<span>&emsp;&emsp;</span>
+</div>
+
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=danerlt" />
+</div>
+
 <!-- ## Projects :computer:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danerlt&repo=github-readme-stats)](https://github.com/danerlt/github-readme-stats)
