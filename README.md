@@ -25,7 +25,7 @@ Life is short, I love Python. :heart:
 ![Docker](https://img.shields.io/badge/-Docker-%23003f8c)
 ![Kubernet](https://img.shields.io/badge/-Kubernet-blueviolet)
 ![Redis](https://img.shields.io/badge/-Redis-green)
-![Rabbitmq](https://img.shields.io/badge/-Rabbitmq-white)  
+![Rabbitmq](https://img.shields.io/badge/-Rabbitmq-yellow)  
 
 </p>
 
