@@ -37,10 +37,11 @@ Life is short, I love Python. :heart:
  -->
 
 ## Analysis :point_down:
+ 
 
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=danerlt&layout=compact&hide=javascript,html,css,vue)](https://github.com/danerlt/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danerlt&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danerlt&show_icons=true)
 
 
 </div>
